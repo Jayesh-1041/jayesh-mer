@@ -6,3 +6,5 @@ my village is gunvantpur
         <title>first web page</title>
     </hade>    
     </html>
+    <body>
+    </body>
