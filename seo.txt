@@ -1,2 +1,3 @@
 SEO (Serch Engine Otimization)
+SEO is a set of Processes aimed at improving a website's visibility in serch engines, like Google with the goal of getting more organic traffic
 SDLC (Software Development life Cycle)
